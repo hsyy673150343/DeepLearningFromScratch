@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/神经网络" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/神经网络的学习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/误差反向传播算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/与学习相关的技巧" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/卷积神经网络" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/深度学习" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
